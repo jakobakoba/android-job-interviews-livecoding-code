@@ -1,6 +1,6 @@
 # Android Job Interviews – Livecoding
 
-This repository contains actual livecoding exercises and code from Android job interviews.  
+This repository contains actual code from livecoding sections of Android job interviews.
 
 ## Companies
 
