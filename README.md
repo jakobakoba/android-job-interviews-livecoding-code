@@ -4,6 +4,6 @@ This repository contains actual livecoding exercises and code from Android job i
 
 ## Companies
 
-- [SBER](app/src/main/java/com/bor96dev/androidlivecoding/sber)
+- [SBER](app/src/main/java/com/bor96dev/androidlivecoding/SBER)
 
 
