@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "AndroidLiveCoding"
 include(":app")
+include(":livecoding")
